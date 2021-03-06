@@ -1,4 +1,4 @@
-# Uber pickups App
+# Uber Pickups App
 
 This project consists of deployment of a dashboard.
 
